@@ -28,7 +28,7 @@ switch(choice)
     case 1:
        System.out.println("\n enter the breadth:");
       int b= c.nextInt();
-     System.out.println("enter he length:");
+     System.out.println("enter the length:");
      int l=c.nextInt();
       d.findarea(b,l);
     break;
